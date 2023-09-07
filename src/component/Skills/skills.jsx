@@ -23,6 +23,16 @@ const Skills = () => {
             title: "React Js Developer",
             description: "This is a demo text, you can write your own content here"
         },
+        {
+            img: UIDesign,
+            title: "Node Js Developer",
+            description: "This is a demo text, you can write your own content here"
+        },
+        {
+            img: UIDesign,
+            title: "React Js Developer",
+            description: "This is a demo text, you can write your own content here"
+        },
     ]
     return (
         <section id="skills">
