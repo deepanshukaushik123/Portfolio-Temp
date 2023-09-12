@@ -17,6 +17,9 @@
     object-fit: cover;
     height: 3rem;
     width: 4rem;
+    /* visibility: none; */
+    /* display: none; */
+    
 }
 
 .desktopMenuListItem {

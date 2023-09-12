@@ -1,6 +1,6 @@
 import React from 'react'
 import './skills.css'
-import WebDesign from "../../assets/website-design.png";
+import Wordpress from "../../assets/WordPress.png";
 import AppDesign from "../../assets/app-design.png";
 import UIDesign from "../../assets/ui-design.png";
 
@@ -9,7 +9,7 @@ const Skills = () => {
 
     const data = [
         {
-            img: WebDesign,
+            img: Wordpress,
             title: "Wordpress Developer",
             description: "This is a demo text, you can write your own content here"
         },
