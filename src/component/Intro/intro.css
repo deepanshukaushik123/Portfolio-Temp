@@ -86,3 +86,10 @@ button {
     }
 
 }
+
+@media Screen and (max-width: 1080px) {
+    .bg {
+        right: -55rem;
+    }
+
+}
