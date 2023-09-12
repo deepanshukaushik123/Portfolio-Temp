@@ -38,6 +38,7 @@ const Works = () => {
           <p className='overlayText'>This is dummy text</p>
         </div>
       </div>
+      <button className="workBtn">See More</button>
     </section>
   )
 }
