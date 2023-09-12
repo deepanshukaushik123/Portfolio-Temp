@@ -87,9 +87,9 @@ button {
 
 }
 
-@media Screen and (max-height: 1080px) {
+@media Screen and (max-width: 240px) {
     .bg {
-        right: -55rem;
+        right: -5rem;
     }
 
 }
