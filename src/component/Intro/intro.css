@@ -90,6 +90,8 @@ button {
 @media Screen and (max-width: 240px) {
     .bg {
         right: -5rem;
+        max-height: fit-content;
+        max-width: fit-content;
     }
 
 }
