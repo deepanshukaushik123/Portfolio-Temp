@@ -3,6 +3,9 @@ import './skills.css'
 import Wordpress from "../../assets/WordPress.png";
 import AppDesign from "../../assets/app-design.png";
 import UIDesign from "../../assets/ui-design.png";
+import reactIcn from "../../assets/React.png";
+import Node from '../../assets/node.png'
+import Mysql from '../../assets/MySQL-Logo.png'
 
 
 const Skills = () => {
@@ -19,18 +22,18 @@ const Skills = () => {
             description: "This is a demo text, you can write your own content here"
         },
         {
-            img: UIDesign,
+            img: reactIcn,
             title: "React Js Developer",
             description: "This is a demo text, you can write your own content here"
         },
         {
-            img: UIDesign,
+            img: Node,
             title: "Node Js Developer",
             description: "This is a demo text, you can write your own content here"
         },
         {
-            img: UIDesign,
-            title: "React Js Developer",
+            img: Mysql,
+            title: "My SQL",
             description: "This is a demo text, you can write your own content here"
         },
     ]
