@@ -34,6 +34,10 @@
 }
 
 .overlayText {
+    display: none;
+ }
+/* 
+.overlayText {
     position: absolute;
     display: none;
     top: 150rem;
@@ -45,7 +49,6 @@
 }
 
 .workImg:hover + .overlayText {
-    /* opacity: 1; */
     display: block;
     background-color: red;
-}
+} */
